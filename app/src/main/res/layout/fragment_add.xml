@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Fragments.AddFragment"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/addImg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="14dp">
+
+        <ImageView
+
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@drawable/picture"
+            android:backgroundTint="#4CAF50"/>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_marginStart="70dp"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Image"
+            android:textColor="@color/app_color"
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/addVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="14dp">
+
+        <ImageView
+
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:padding="4dp"
+            android:background="@drawable/reel"
+            android:backgroundTint="#E60A0A"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_marginStart="70dp"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Video"
+            android:textColor="@color/app_color"/>
+    </LinearLayout>
+</LinearLayout>

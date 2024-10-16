@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52794422326",
+    "project_id": "mymedia-2025e",
+    "storage_bucket": "mymedia-2025e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52794422326:android:9602363436ad216d425497",
+        "android_client_info": {
+          "package_name": "com.fpp.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2z1y0-huTL7DFkByxpSPHyA5psQ4Uz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
