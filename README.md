@@ -21,14 +21,12 @@ The login page allows existing users to log into their account by providing:
 Upon successful login, the user is directed to their personalized homepage or feed.
 
 
-### Signup Page
-![Signup Page](path/to/signup_image.jpg)
-![reg](https://github.com/user-attachments/assets/c886180f-20ad-46ff-a051-1967ac1f8921)
+## Signup Page & Login Page
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/c886180f-20ad-46ff-a051-1967ac1f8921" alt="Signup Page" style="width: 45%;" />
+    <img src="https://github.com/user-attachments/assets/de2aa07c-0a8c-4f8a-b4b3-d3f2687a7a26" alt="Login Page" style="width: 45%;" />
+</div>
 
-### Login Page
-![Login Page](path/to/login_image.jpg)
-
----
 
 ## Installation
 
