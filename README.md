@@ -1,3 +1,5 @@
+This app uses **XML** for frontend design, **Kotlin** for app logic and functionality, and **Firebase** for backend services, including real-time database management and user authentication.
+
 # MyMedia - Social Media App
 
 **MyMedia** is a social media platform that allows users to connect, share posts, and interact with their friends and family. The app includes essential features such as user authentication, profile management, the ability to upload pictures and videos, and a personalized social feed.
@@ -97,8 +99,12 @@ The **Profile Page** is where users can manage their personal information and vi
 
 ---
 
+**For privacy and security reasons, the APK link for the app is not shared publicly. If you're interested in trying out the app, please feel free to contact me directly, and I will provide access to the APK**
+
 ## Installation
 
 Clone the repository:
    ```bash
    https://github.com/Soumyadipkaran/MyMedia.git
+
+
