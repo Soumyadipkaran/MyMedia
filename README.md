@@ -99,6 +99,6 @@ The **Profile Page** is where users can manage their personal information and vi
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MyMedia.git
+   https://github.com/Soumyadipkaran/MyMedia.git
